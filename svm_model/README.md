@@ -14,11 +14,14 @@ fraud_svm.py`: Python file with data preprocessing, model training, evaluation, 
   - Precision-Recall Curve
   - AUC Score
 ## Visualizations
-![ROC Curve](../plots/svm_roc.png)
-![Precision-Recall](../plots/svm_pr.png)
-![Confusion Matrix](../plots/svm_confusion.png)
-![Classification Report](../plots/svm_classification.png)
-
+### Confusion Matrix
+![Confusion Matrix](plots/svm_confusion.png)
+### Classification Report Heatmap
+![Classification Report](plots/svm_classification.png)
+### ROC Curve
+![ROC Curve](plots/svm_roc.png)
+### Precision-Recall Curve
+![Precision-Recall](plots/svm_pr.png)
 ## Tools Used
 - Python
 - Pandas, NumPy
