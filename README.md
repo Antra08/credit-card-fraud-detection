@@ -16,7 +16,7 @@ fraud_detection.py`: Python script with data loading, preprocessing, model train
 ![Class_Distribution](class_distribution.png)
 This plot shows how imbalanced the data is before applying SMOTE.
 ### Precision-Recall Curve
-![Precision-Recall curve](Precision-RecallCurve.png)
+![Precision-Recall curve](precision_recall.png)
 This curve evaluates the trade-off between precision and recall, important for fraud detection.
 ## 🛠Tools Used
 - Python
